@@ -1,7 +1,7 @@
 Hi
 Created this to learn the basics of gitHub
 HOW IT IS WORKING.
-
+Note: add new file
 
 
 Thanks!
